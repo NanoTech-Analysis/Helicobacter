@@ -7,7 +7,6 @@ N_PATIENTS = 21
 
 date = datetime.datetime.now().date().strftime("%Y_%m_%d")
 date_dir = f"{REAL_TIME_MAIN_DIR}/{date}"
-# date_dir = f"{REAL_TIME_MAIN_DIR}/2024_06_14"
 os.makedirs(f"{date_dir}", exist_ok=True)
 os.makedirs(f"{date_dir}/samples", exist_ok=True)
 os.makedirs(f"{date_dir}/background", exist_ok=True)
