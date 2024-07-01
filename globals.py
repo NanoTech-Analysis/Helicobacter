@@ -10,6 +10,9 @@ R45_HUMAN_PRE = (DELTA_C13_HUMAN_PRE + 1) *R45_PDB
 I44_BACKGROUND = 5e6
 I45_BACKGROUND = 5.5e4
 
+# Deprecated, use variables in gloabls_local_values.py
+# REAL_TIME_MAIN_DIR = "C:/Users/Daniel Racca/NanoTech Analysis S.r.l/File Server - Scambio/Progetto_Helicobacter - ANALISI/bologna/caratterizzazione_proto_3"
+# REAL_TIME_FILES_SOURCE_DIR = "C:/Users/Daniel Racca/NanoTech Analysis S.r.l/File Server - Scambio/Progetto_Helicobacter - ANALISI/bologna/caratterizzazione_proto_3/spectra_match_target"
 
 # PLOT_COLORS =  plt.colors.DEFAULT_PLOTLY_COLORS
 PLOT_COLORS = [

@@ -1,2 +1,2 @@
-REAL_TIME_MAIN_DIR = "C:/Users/Daniel Racca/NanoTech Analysis S.r.l/File Server - Scambio/Progetto_Helicobacter - ANALISI/bologna/caratterizzazione_proto_3"
-REAL_TIME_FILES_SOURCE_DIR = "C:/Users/Daniel Racca/NanoTech Analysis S.r.l/File Server - Scambio/Progetto_Helicobacter - ANALISI/bologna/caratterizzazione_proto_3/spectra_match_target"
+REAL_TIME_MAIN_DIR = "C:/Users/Carla/OneDrive/Desktop/BOLOGNA_DATA"
+REAL_TIME_FILES_SOURCE_DIR = "C:/Users/Carla/OneDrive/Desktop/spectra_match_target"
